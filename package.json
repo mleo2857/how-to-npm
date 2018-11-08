@@ -1,0 +1,16 @@
+{
+  "name": "@mleo2857/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This is an npm application",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "respository": "npmjs.com",
+  "devDependencies": {}
+}
